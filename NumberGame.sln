@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGame", "NumberGame\NumberGame.csproj", "{81A9CBE8-802D-4EC1-A90C-86F0EB3891D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGameTest", "NumberGameTest\NumberGameTest.csproj", "{5F1BC688-6A41-4020-AB79-F3EBC3BA79B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A9CBE8-802D-4EC1-A90C-86F0EB3891D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A9CBE8-802D-4EC1-A90C-86F0EB3891D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A9CBE8-802D-4EC1-A90C-86F0EB3891D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A9CBE8-802D-4EC1-A90C-86F0EB3891D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1BC688-6A41-4020-AB79-F3EBC3BA79B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1BC688-6A41-4020-AB79-F3EBC3BA79B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1BC688-6A41-4020-AB79-F3EBC3BA79B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1BC688-6A41-4020-AB79-F3EBC3BA79B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F28CE7-B537-45C9-83B4-7AFC277EFAC0}
+	EndGlobalSection
+EndGlobal
